@@ -7,14 +7,14 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Catmanjan.Odbc", "Catmanjan
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
-		Debug|Any CPU = Debug|Any CPU
-		Release|Any CPU = Release|Any CPU
+		Debug|x64 = Debug|x64
+		Release|x64 = Release|x64
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{C23EC114-5DE8-45E4-A97D-A46BE298A571}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{C23EC114-5DE8-45E4-A97D-A46BE298A571}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{C23EC114-5DE8-45E4-A97D-A46BE298A571}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{C23EC114-5DE8-45E4-A97D-A46BE298A571}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C23EC114-5DE8-45E4-A97D-A46BE298A571}.Debug|x64.ActiveCfg = Debug|x64
+		{C23EC114-5DE8-45E4-A97D-A46BE298A571}.Debug|x64.Build.0 = Debug|x64
+		{C23EC114-5DE8-45E4-A97D-A46BE298A571}.Release|x64.ActiveCfg = Release|x64
+		{C23EC114-5DE8-45E4-A97D-A46BE298A571}.Release|x64.Build.0 = Release|x64
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
